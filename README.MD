@@ -38,13 +38,10 @@ Proyecto backend donde se implementa un API e-commerce para poder vender product
 
 - API de prueba temporal en:/api/products
 
-  - Usuario admin para probar todos los endpoints sin restricciones:
-
-
 - La documentación en Swagger está en proceso: api/docs
 
 
-## 📦 Estructura de carpetas
+## 📦 Estructura de carpeta
 
 ---
 
